@@ -1,0 +1,28 @@
+name: TestBR
+favicon: null
+layout_spectrum: 0.03481394611299038
+typography_spectrum: 0.1498634258750826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3387615573592484
+  lightness: 0.21013653534464538
+  saturation: 0.7777339036110789
+  rhythmicContrast: 0.43152779061347246
+purpose: []
